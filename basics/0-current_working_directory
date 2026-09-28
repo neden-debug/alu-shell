@@ -1,8 +1,7 @@
 
 
-#!/bin/bash
-
-echo 'pwd' >> 0-current_working_directory
+printf "#!/bin/bash\npwd\n" > 0-current_working_directory
+chmod u+x 0-current_working_directory
 
 
 
