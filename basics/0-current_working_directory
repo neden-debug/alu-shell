@@ -1,10 +1,2 @@
 #!/bin/bash
-
-printf "#!/bin/bash\npwd\n" > 0-current_working_directory
-chmod u+x 0-current_working_directory
-
-
-
-
-
-
+pwd
