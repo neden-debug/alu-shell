@@ -1,0 +1,2 @@
+printf '#!/bin/bash\ncd ~\n' > 2-bring_me_home
+chmod u+x 2-bring_me_home
